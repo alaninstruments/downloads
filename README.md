@@ -27,3 +27,7 @@ Install one update at a time, and keep the previous version's file in case you w
 ## Check your download
 
 Each release lists a checksum for every file. On a Mac or Linux computer run `shasum -a 256 <file>` and compare the result with the release notes.
+
+## Help
+
+Questions or problems: info@alaninstruments.com
